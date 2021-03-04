@@ -1,4 +1,4 @@
-# EasyBlog Builder: Simple blog application for bloggers.
+# EasyBlog Builder: `A Simple blog builder and management for bloggers`.
 
 ## Descritpion
 This is a simple blog builder for users, who want to own and manage a their blogs. User can create a simple blog and manage the blog from time to time from their dashboard.
